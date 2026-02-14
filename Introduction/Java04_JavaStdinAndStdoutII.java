@@ -5,7 +5,7 @@ import java.util.*;
 public class Java04_JavaStdinAndStdoutII {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        //scan.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        
 
 
         int i = scan.nextInt();
